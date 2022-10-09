@@ -1,4 +1,4 @@
-#EXTM3U
+Up#EXTM3U
 #EXTINF:-1,&PRIVE HD
 http://103.151.43.102:8800/play/a03g/index.m3u8
 #EXTINF:-1,&flix HD
@@ -588,3 +588,155 @@ http://103.119.94.254:8001/play/a02a/index.m3u8
 http://103.119.94.254:8001/play/a02r/index.m3u8
 #EXTINF:-1,Zee TV HD
 http://103.119.94.254:8001/play/a025/index.m3u8
+#EXTINF:-1, Star Vijay 
+http://50.7.237.4:8080/STARVIJAYHD/tracks-v1a1/index.m3u8
+#EXTINF:-1, Sun TV 
+http://50.7.237.4:8080/SUNTVHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Tamil 
+http://50.7.237.4:8080/ZEETAMILHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Star maa
+http://50.7.237.4:8080/STARMAAHD/tracks-v1a1/index.m3u8
+#EXTINF:-1Sun music 
+http://50.7.237.4:8080/SUNMUSICHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Jaya TV 
+http://50.7.237.4:8080/JAYATVHD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,KTV HD 
+
+http://50.7.237.4:8080/KTVHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Star maa gold 
+
+http://50.7.237.4:8080/STARMAAGOLD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Etv TELUGU 
+http://89.187.179.108:8080/ETVHD/LOCAL/TEL/index.m3u8?token=test
+#EXTINF:-1,Star maa gold 
+http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
+#EXTINF:-1,Star maa music 
+
+http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
+#EXTINF:-1,STAR MAA TV 
+http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
+#EXTINF:-1,
+STAR SUVARNA 
+.http://89.187.179.108:8080/SuvarnaTV-Kannada/index.m3u8?token=test
+#EXTINF:-1,
+MAA MOVIES
+http://89.187.179.108:8080/MaaMovies-telu/index.m3u8?token=test
+#EXTINF:-1,
+Gemini tv
+http://89.187.179.108:8080/GEMINITVHD/LOCAL/TEL/index.m3u8?token=test
+
+Gemini movies
+http://89.187.179.108:8080/GeminiMovies-telu/index.m3u8?token=test
+
+Sony max
+
+http://50.7.237.4:8080/SONYMAXHD/tracks-v1a1/index.m3u8
+
+Zee TV 
+
+http://50.7.237.4:8080/ZEETVHD/tracks-v1a1/index.m3u8
+
+Colors hd
+
+http://50.7.237.4:8080/COLORSHD/tracks-v1a1/index.m3u8
+
+Star JALSHA 
+
+http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
+
+Utsav Bharat 
+
+http://50.7.237.4:8080/STARBHARATHD/tracks-v1a1/index.m3u8
+
+Star gold 
+
+http://50.7.237.4:8080/STARGOLDHD/tracks-v1a1/index.m3u8
+
+Surya tv
+
+http://50.7.237.4:8080/SURYAHD/tracks-v1a1/index.m3u8
+
+Zee cinema 
+
+http://50.7.237.4:8080/ZEECINEMAHD/tracks-v1a1/index.m3u8
+
+Zee Kannada 
+
+http://50.7.237.4:8080/ZEEKANNADAHD/tracks-v1a1/index.m3u8
+
+RAJ TV 
+
+http://50.7.237.4:8080/RAJTV/tracks-v1a1/index.m3u8
+
+RAJ digital plus 
+
+http://50.7.237.4:8080/RAJDIGITALPLUS/tracks-v1a1/index.m3u8
+
+9xm
+
+http://50.7.237.4:8080/9XM/tracks-v1a1/index.m3u8
+
+B4u music 
+
+http://50.7.237.4:8080/B4UMUSIC/tracks-v1a1/index.m3u8
+
+Sony pal
+
+http://50.7.237.4:8080/SONYPAL/tracks-v1a1/index.m3u8
+
+Nick Jr. Dora TV [Pluto] 
+
+https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
+
+Nick [Pluto]
+
+https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
+
+Tortues Ninja [Pluto] 
+
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+
+MTV Hits
+
+http://50.7.237.4:8080/MTVHITS/tracks-v1a1/index.m3u8
+
+MTV 80s
+
+http://50.7.237.4:8080/MTVCLASSIC/tracks-v1a1/index.m3u8
+
+MTV 90s
+
+http://85.17.17.249/mtv_rocks/index.m3u8
+
+MTV 90s²
+
+http://50.7.237.4:8080/MTVBASE/tracks-v1a1/index.m3u8
+
+NICK Music
+
+http://85.17.17.249/MTV_MUSIC/index.m3u8
+
+MTV 00s
+
+http://38.143.137.221:8000/LA49/index.m3u8
+
+
+MTV 
+
+http://38.143.137.221:8000/LA107/index.m3u8
+
+
+MTV 80s
+
+http://38.143.137.221:8000/LA48/index.m3u8
+
+Horror Channel
+http://50.7.237.4:8080/HORRORCHANNEL/tracks-v1a1/index.m3u8
+
+Bein Sports Xtra
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+
+Bein SportXtra [Pluto] 
+
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
