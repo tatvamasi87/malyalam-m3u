@@ -708,3 +708,6 @@ http://50.7.237.4:8080/HORRORCHANNEL/tracks-v1a1/index.m3u8
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 #EXTINF:-1, Bein SportXtra [Pluto] 
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
+
+#EXTINF:-1, sun music
+http://50.7.237.4:8080/SUNMUSICHD/tracks-v1a1/index.m3u8
