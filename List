@@ -1,107 +1,61 @@
 #EXTM3U
-#EXTINF:-1,&PRIVE HD
-http://175.107.244.52:4455/play/a00x/index.m3u8
-#EXTINF:-1,&flix HD
-http://175.107.244.52:4455/play/a011/index.m3u8
-#EXTINF:-1,&pictures HD 
-http://175.107.244.52:4455/play/a00s/index.m3u8
-#EXTINF:-1,9XM - Free
-http://175.107.244.52:4455/play/a03m/index.m3u8
-#EXTINF:-1,ANIMAL PLAN HD
-http://175.107.244.52:4455/play/a00m/index.m3u8
-#EXTINF:-1,BBC WORLD 
-http://175.107.244.52:4455/play/a021/index.m3u8
-#EXTINF:-1,CARTOON- Rs 4.25
-http://175.107.244.52:4455/play/a039/index.m3u8
-#EXTINF:-1,CNN INTL 
-http://175.107.244.52:4455/play/a020/index.m3u8
-#EXTINF:-1,COMEDY CEN
-http://175.107.244.52:4455/play/a022/index.m3u8
-#EXTINF:-1,Colors HD
-http://175.107.244.52:4455/play/a010/index.m3u8
-#EXTINF:-1,DISCOVERY K-Rs 3
-http://175.107.244.52:4455/play/a03n/index.m3u8
-#EXTINF:-1,Discovery HD
-http://175.107.244.52:4455/play/a01v/index.m3u8
-#EXTINF:-1,Disney Chan-Rs 8
-http://175.107.244.52:4455/play/a03e/index.m3u8
-#EXTINF:-1,Disney Jr.-Rs 4
-http://175.107.244.52:4455/play/a03g/index.m3u8
-#EXTINF:-1,EUROSPORT HD
-http://175.107.244.52:4455/play/a013/index.m3u8
-#EXTINF:-1,HISTORY TV18 HD
-http://175.107.244.52:4455/play/a00o/index.m3u8
-#EXTINF:-1,HUM HD
-http://175.107.244.52:4455/play/a00f/index.m3u8
-#EXTINF:-1,HUM NEWS HD
-http://175.107.244.52:4455/play/a00g/index.m3u8
-#EXTINF:-1,HUM PASHTO-1
-http://175.107.244.52:4455/play/a00j/index.m3u8
-#EXTINF:-1,HUM SITARAY
-http://175.107.244.52:4455/play/a00i/index.m3u8
-#EXTINF:-1,MASALA TV
-http://175.107.244.52:4455/play/a00h/index.m3u8
-#EXTINF:-1,MAX HD 
-http://175.107.244.52:4455/play/a01n/index.m3u8
-#EXTINF:-1,MN+ HD
-http://175.107.244.52:4455/play/a01r/index.m3u8
-#EXTINF:-1,MNX 
-http://175.107.244.52:4455/play/a023/index.m3u8
-#EXTINF:-1,MOVIES NOW
-http://175.107.244.52:4455/play/a025/index.m3u8
-#EXTINF:-1,MTV - Rs 3
-http://175.107.244.52:4455/play/a03j/index.m3u8
-#EXTINF:-1,MTV Beats- 10p
-http://175.107.244.52:4455/play/a03o/index.m3u8
-#EXTINF:-1,NAT Geo Wild HD
-http://175.107.244.52:4455/play/a01o/index.m3u8
-#EXTINF:-1,National G HD
-http://175.107.244.52:4455/play/a01u/index.m3u8
-#EXTINF:-1,Nick Jr.- Rs 1
-http://175.107.244.52:4455/play/a03l/index.m3u8
-#EXTINF:-1,PIX HD 
-http://175.107.244.52:4455/play/a00r/index.m3u8
-#EXTINF:-1,Peace TV English HD
-http://175.107.244.52:4455/play/a06m/index.m3u8
-#EXTINF:-1,Peace TV Urdu HD
-http://175.107.244.52:4455/play/a06n/index.m3u8
-#EXTINF:-1,Pogo - Rs 4.25
-http://175.107.244.52:4455/play/a03i/index.m3u8
-#EXTINF:-1,Romedy NOW
-http://175.107.244.52:4455/play/a026/index.m3u8
-#EXTINF:-1,SET HD 
-http://175.107.244.52:4455/play/a012/index.m3u8
-#EXTINF:-1,SIX HD 
-http://175.107.244.52:4455/play/a01l/index.m3u8
-#EXTINF:-1,SONIC- Rs 2
-http://175.107.244.52:4455/play/a03h/index.m3u8
-#EXTINF:-1,STAR BHARAT HD
-http://175.107.244.52:4455/play/a00l/index.m3u8
-#EXTINF:-1,STAR MOV HD
-http://175.107.244.52:4455/play/a01s/index.m3u8
-#EXTINF:-1,STAR WOR P HD
-http://175.107.244.52:4455/play/a01g/index.m3u8
-#EXTINF:-1,STAR WORLD HD
-http://175.107.244.52:4455/play/a01h/index.m3u8
-#EXTINF:-1,Sony BBC EarHD
-http://175.107.244.52:4455/play/a00q/index.m3u8
-#EXTINF:-1,Sony Ten 1 HD
-http://175.107.244.52:4455/play/a01k/index.m3u8
-#EXTINF:-1,Sony Ten 2 HD
-http://175.107.244.52:4455/play/a00v/index.m3u8
-#EXTINF:-1,Star GOLD HD 
-http://175.107.244.52:4455/play/a00n/index.m3u8
-#EXTINF:-1,Star Gold SelHD
-http://175.107.244.52:4455/play/a00p/index.m3u8
-#EXTINF:-1,Star Plus HD 
-http://175.107.244.52:4455/play/a00y/index.m3u8
-#EXTINF:-1,Star S Hin 1 HD
-http://175.107.244.52:4455/play/a01m/index.m3u8
-#EXTINF:-1,Star Sports 1 HD
-http://175.107.244.52:4455/play/a01i/index.m3u8
-#EXTINF:-1,Star Sports 2 HD
-http://175.107.244.52:4455/play/a01j/index.m3u8
-#EXTINF:-1,Star Sports S 1 HD
-http://175.107.244.52:4455/play/a00t/index.m3u8
-#EXTINF:-1,Star Sports S 2 HD
-http://175.107.244.52:4455/play/a00u/index.m3u8
+Vinayaga music 
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+நமது சங்கமம்
+http://shinestream.in:1935/namathusangamam/namathusangamam/chunklist_w101948811.m3u8
+வேதா டிவி
+http://conference1.livebox.co.in:80/vedhatvhls/live.m3u8
+ATN media
+http://indiamatrix.in:80/atn/atn.m3u8
+பாமா 
+http://livematrix.in:80/bamahd/bamahd.m3u8
+தி நெல்லை டைம்ஸ்
+http://indiamatrix.in:80/nellaitimestv/nellaitimestv.m3u8
+K channel
+http://indiamatrix.in:80/kchannel/kchannel.m3u8
+Smile 
+http://hdserver.7starcloud.com:1935/smile/livestream/playlist.m3u8
+Sun star
+http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8
+Mullai 
+http://live.singamcloud.in:1935/mullaitv/mullaitv/playlist.m3u8
+தருண் மூவிஸ்
+http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
+லீப் விஜய்
+http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
+வசந்த்
+http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
+S flix 
+http://bmlive.net:8000/appletv/sflixtv/bms.m3u8
+VIP
+http://media.7starcloud.com:1935/harimedia/vip/playlist.m3u8
+லீ
+http://nextgeninfotech.ddns.net:8080/leetv/leetv.m3u8
+பவானி சங்கமம்
+http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
+ஜீ
+http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
+தேவதை
+http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
+அசோகா
+http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8
+அபிநயா மியூசிக்
+http://singamcloud.in/purpletv/purpletv/index.m3u8
+சிங்கம்
+http://singamcloud.in/singamtv/singamtv/index.m3u8
+கலை இசை
+http://singamcloud.in/kalai/kalaiisai/index.m3u8
+M music 
+https://mntv.livebox.co.in/musichls/live.m3u8
+அத்விகா
+http://bmlive.net:8000/paulveernan/advika/bms.m3u8
+ஸ்ரீசரவணா
+http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
+ரியோ
+http://stream.singamcloud.in/riotv/riotv/index.m3u8
+7 hills
+http://live.singamcloud.in:1935/7hilstv/7hilstv/playlist.m3u8
+போனஸ்
+http://singamcloud.in:80/bonushd/bonushd/tracks-v1a1/mono.m3u8
+SLS
+http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
